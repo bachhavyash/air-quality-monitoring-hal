@@ -46,7 +46,30 @@ All source code related to sensor interfacing and alert logic is available in th
 ---
 
 ## 🖼️ Project Visuals
-Block diagrams, circuit images, and final demonstration photos are available in the `images` folder.
+## 🖼️ Project Visuals
+
+### 🔹 Circuit Connection Diagram
+This diagram shows the complete hardware connections between the ESP32, air quality sensor, and alert components.
+![Circuit Diagram](images/circuit_connection_diagram.png)
+
+---
+
+### 🔹 Dashboard – Air Quality Parameters
+The dashboard displays real-time air quality parameters captured by the system for monitoring and analysis.
+![Dashboard](images/dashboard_parameters.png)
+
+---
+
+### 🔹 Final Working Model
+The fully assembled and operational air quality monitoring system during live testing.
+![Working Model](images/final_working_model.jpg)
+
+---
+
+### 🔹 HAL Exhibition – Team & Project Recognition
+Team presentation and project showcase at the HAL technical exhibition, including certificates and project materials received after evaluation.
+![HAL Team](images/hal_team_and_certificates.jpg)
+
 
 ---
 
