@@ -1,7 +1,7 @@
 # 🌍📊 Air Quality Monitoring and Pollution Control System
 
 ## 🏆 Project Highlight
-**Presented at a Technical Exhibition organized at :contentReference[oaicite:0]{index=0} (HAL)**
+**Presented at a Technical Exhibition organized at :Hindustan Aeronautics Limited (HAL).**
 
 ---
 
